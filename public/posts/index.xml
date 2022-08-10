@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on qzz.show</title>
+    <link>http://qzz.show/posts/</link>
+    <description>Recent content in Posts on qzz.show</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2022 16:05:10 +0800</lastBuildDate><atom:link href="http://qzz.show/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One</title>
+      <link>http://qzz.show/posts/one/</link>
+      <pubDate>Wed, 10 Aug 2022 16:05:10 +0800</pubDate>
+      
+      <guid>http://qzz.show/posts/one/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
